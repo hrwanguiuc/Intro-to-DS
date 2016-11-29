@@ -1,2 +1,2 @@
 # Intro-to-DS
-Work done via R 
+Homework in the Intro to Data Science course. All work is done via R.  
